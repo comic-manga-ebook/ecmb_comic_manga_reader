@@ -23,7 +23,8 @@ Copyright (c) 2023 Clemens K. (https://github.com/metacreature)
 
 ## Why there is no IOS-App?
 
-First of all, to build and publish an IOS-App you need to have a Mac. I know - Virtual-Desktop, but this is forbidden by the license-agreement of IOS to use it on a non-Apple-Hardware and I don't have enough space on my C-drirve. <br />
-2nd, I'm an European, and the way Apple treats other companies and Apple's behavior regarding the DMA ([https://digital-markets-act.ec.europa.eu/index_en](https://digital-markets-act.ec.europa.eu/index_en)) - no, I won't support this company!<br /><br />
-**You can buy a cheap Android-Tablet on Amazon. Mine was 69€ on Black Friday!**<br /><br />
-Of course: feel free to do your own app ;)
+- to build and publish an IOS-App you need to have a Mac. I know - Virtual-Desktop, but this is forbidden by the license-agreement of IOS to use it on a non-Apple-Hardware and I don't have enough space on my C-drirve. 
+- I'm an European, and the way Apple treats other companies and Apple's behavior regarding the DMA ([https://digital-markets-act.ec.europa.eu/index_en](https://digital-markets-act.ec.europa.eu/index_en)) - no, I won't support this company!
+- this is a private project, I've developed for my personal use. As I don't have an IPad ...
+<br />
+**You can buy a cheap Android-Tablet on Amazon. Mine was 69€ on Black Friday!** And of course: feel free to do your own app ;)
