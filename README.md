@@ -27,5 +27,6 @@ Copyright (c) 2023 Clemens K. (https://github.com/metacreature)
 - I'm an European, and the way Apple treats other companies and Apple's behavior regarding the DMA ([https://digital-markets-act.ec.europa.eu/index_en](https://digital-markets-act.ec.europa.eu/index_en)) - no, I won't support this company!
 - this is a private project, I've developed for my personal use. As I don't have an IPad ...
 <br />
-**You can buy a cheap Android-Tablet on Amazon. Mine was 69€ on Black Friday!**
+
+<b>You can buy a cheap Android-Tablet on Amazon. Mine was 69€ on Black Friday!</b>
 ... and of course: feel free to do your own app ;)
