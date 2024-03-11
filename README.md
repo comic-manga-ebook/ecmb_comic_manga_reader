@@ -29,6 +29,6 @@ Copyright (c) 2023 Clemens K. (https://github.com/metacreature)
 - this is a private project, I've developed for my personal use. As I don't have and will never have an IPad ...
 <br />
 
-<b>You can buy a cheap Android-Tablet on Amazon. Mine was 69€ on Black Friday!</b>
+<b>You can buy a cheap Android-Tablet on Amazon. Mine was 69€ on Black Friday! It is surprisingly good!</b>
 ... And of course: feel free to do your own app ;)
 <br /><br /><br />
