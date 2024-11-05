@@ -29,7 +29,9 @@ Thank you very much!
 
 ## Download Android-App
 
-It will be released at the GooglePlayStore soon, but for the meanwhile [download apk](https://github.com/comic-manga-ebook/ecmb_reader/releases/download/version1.0/ecmbReader_v1.0.apk)
+It will be released at the GooglePlayStore soon, but for the meanwhile [download apk](https://github.com/comic-manga-ebook/ecmb_reader/releases/download/version1.0/ecmbReader_v1.0.apk)<br />
+
+If you want to try out the app without building your first book you can [download a demo-book here](https://github.com/comic-manga-ebook/ecmb_reader/raw/refs/heads/main/Manga-Demo.ecmb)
 
 
 ## Why there is no IOS-App?
