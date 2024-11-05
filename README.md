@@ -4,6 +4,7 @@
 
 ### Table of contents
 - [About this repository](#about-this-repository)
+- [Searching for Designer](#searching-for-designer)
 - [Download Android-App](#download-android-app)
 - [Why there is no IOS-App?](#why-there-is-no-ios-app)
 
@@ -19,9 +20,17 @@ Copyright (c) 2023 Clemens K. (https://github.com/metacreature)
 **If you like it, I would be happy if you  [donate on checkya](https://checkya.com/1hhp2cpit9eha/payme)**<br /><br />
 
 
+## Searching for Designer
+
+The app is finally finnished, but it looks horrible ([screenshot](https://github.com/comic-manga-ebook/ecmb_reader/blob/main/home_book_actions.png)), as programmers can't do designs.
+So I'm searching for volunteer, who can do better colors and shapes for the elements. If you are interested you can contact me [here](https://opensourcedesign.net/jobs/jobs/2024-11-03-a-better-design-for-the-mobile-app).<br />
+
+Thank you very much!
+
 ## Download Android-App
 
-... be patient - it will come soon, it is nearly finished!
+It will be released at the GooglePlayStore soon, but for the meanwhile 
+
 
 ## Why there is no IOS-App?
 
