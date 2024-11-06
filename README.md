@@ -2,10 +2,18 @@
 
 ### Homepage: [https://github.com/comic-manga-ebook/](https://github.com/comic-manga-ebook/)
 
+
+## Download Android-App
+
+It will be released at the GooglePlayStore soon, but for the meanwhile [download apk](https://github.com/comic-manga-ebook/ecmb_reader/releases/download/version1.0/ecmbReader_v1.0.apk)<br />
+
+If you want to try out the app without building your first book you can [download a demo-book here](https://github.com/comic-manga-ebook/ecmb_reader/raw/refs/heads/main/Manga-Demo.ecmb)
+
+
+
 ### Table of contents
 - [About this repository](#about-this-repository)
 - [Searching for Designer](#searching-for-designer)
-- [Download Android-App](#download-android-app)
 - [Why there is no IOS-App?](#why-there-is-no-ios-app)
 
 
@@ -26,13 +34,6 @@ The app is finally finnished, but it looks horrible ([screenshot](https://github
 So I'm searching for volunteer, who can do better colors and shapes for the elements. If you are interested you can contact me [here](https://opensourcedesign.net/jobs/jobs/2024-11-03-a-better-design-for-the-mobile-app).<br />
 
 Thank you very much!
-
-## Download Android-App
-
-It will be released at the GooglePlayStore soon, but for the meanwhile [download apk](https://github.com/comic-manga-ebook/ecmb_reader/releases/download/version1.0/ecmbReader_v1.0.apk)<br />
-
-If you want to try out the app without building your first book you can [download a demo-book here](https://github.com/comic-manga-ebook/ecmb_reader/raw/refs/heads/main/Manga-Demo.ecmb)
-
 
 ## Why there is no IOS-App?
 
