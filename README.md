@@ -5,9 +5,9 @@
 
 ## Download Android-App
 
-It will be released at the GooglePlayStore soon, but for the meanwhile [download apk](https://github.com/comic-manga-ebook/ecmb_reader/releases/download/version1.0/ecmbReader_v1.0.apk)<br />
+It will be released at the GooglePlayStore soon, but for the meanwhile [download apk](https://github.com/comic-manga-ebook/ecmb_comic_manga_reader/releases/download/version1.0/ecmbReader_v1.0.apk)<br />
 
-If you want to try out the app without building your first book you can [download a demo-book here](https://github.com/comic-manga-ebook/ecmb_reader/raw/refs/heads/main/Manga-Demo.ecmb)
+If you want to try out the app without building your first book you can [download a demo-book here](https://github.com/comic-manga-ebook/ecmb_comic_manga_reader/raw/refs/heads/main/Manga-Demo.ecmb)
 
 
 
@@ -30,7 +30,7 @@ Copyright (c) 2023 Clemens K. (https://github.com/metacreature)
 
 ## Searching for Designer
 
-The app is finally finnished, but it looks horrible ([screenshot](https://github.com/comic-manga-ebook/ecmb_reader/blob/main/home_book_actions.png)), as programmers can't do designs.
+The app is finally finnished, but it looks horrible ([screenshot](https://github.com/comic-manga-ebook/ecmb_comic_manga_reader/blob/main/home_book_actions.png)), as programmers can't do designs.
 So I'm searching for volunteer, who can do better colors and shapes for the elements. If you are interested you can contact me [here](https://opensourcedesign.net/jobs/jobs/2024-11-03-a-better-design-for-the-mobile-app).<br />
 
 Thank you very much!
